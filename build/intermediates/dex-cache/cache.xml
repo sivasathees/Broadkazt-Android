@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/29d1416d3d09cf2a1005142580c88957eb1b6a5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/macbookpro/Documents/workspace/Upwork/NFC-Snapper/nfc-snapper/app/build/intermediates/pre-dexed/debug/classes_ff76ca78cec41c6bf0b5c11f0d4dac48da779a39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/c7589fc621e5e3a025a0b4ad6130fe61c953ee34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac604b742fb7eacc7f995f5bee3bc3b2bfb2d670">
+        <dex dex="/Users/macbookpro/Documents/workspace/Upwork/NFC-Snapper/nfc-snapper/app/build/intermediates/pre-dexed/debug/classes_41a0c2b7c4f3ed90e30b929d53246c84fc93926d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/18bf09361064bab2ec2776616c93d50cef969eb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8bac503d591e9f8c4edecf54028e5c2a5178a009">
+        <dex dex="/Users/macbookpro/Documents/workspace/Upwork/NFC-Snapper/nfc-snapper/app/build/intermediates/pre-dexed/debug/classes_9bf76b6d29459b158d7b6f9679861f099f3c457a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-kms/2.6.15/314861631a4154f51ea03bc33a6d41ec87c6af76/aws-android-sdk-kms-2.6.15.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="314861631a4154f51ea03bc33a6d41ec87c6af76">
+        <dex dex="/Users/macbookpro/Documents/workspace/Upwork/NFC-Snapper/nfc-snapper/app/build/intermediates/pre-dexed/debug/aws-android-sdk-kms-2.6.15_7123b8a21b0b43135db904d5c9f584c330925528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.6.15/d344a14d2b0ae2e98f4fbcb107b7a6b217824197/aws-android-sdk-core-2.6.15.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d344a14d2b0ae2e98f4fbcb107b7a6b217824197">
+        <dex dex="/Users/macbookpro/Documents/workspace/Upwork/NFC-Snapper/nfc-snapper/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.6.15_ec24acb90eadbcfdaec7a9110e4390c091bfd843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/178940aed4dcb1f5f95ad5b86b1645ab0a9ad91d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f56821bb02b7f7a9372199fbd8181d3300bde3a7">
+        <dex dex="/Users/macbookpro/Documents/workspace/Upwork/NFC-Snapper/nfc-snapper/app/build/intermediates/pre-dexed/debug/classes_cbb0322f13961590647a78a5bf5ef9e3dac499fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/145f4bfe8d978a41adf17d7f151d62eaef4fe14f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f03c448fbcf684ab192c8dc69e6405f206bf12ef">
+        <dex dex="/Users/macbookpro/Documents/workspace/Upwork/NFC-Snapper/nfc-snapper/app/build/intermediates/pre-dexed/debug/classes_6b87bce635c8f94b23986b83859335ca9a8cea10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/9aae7fb2fa8bc1a21635b55bda269fdb362453c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="/Users/macbookpro/Documents/workspace/Upwork/NFC-Snapper/nfc-snapper/app/build/intermediates/pre-dexed/debug/classes_44e8c446b4005297b6c78a54fa0d049ec373e4bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/bca74e071b7ad81c18a913913ffe00bc899bf054/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b7288b3cc80a6e1a0c40e958f94d775b675cb562">
+        <dex dex="/Users/macbookpro/Documents/workspace/Upwork/NFC-Snapper/nfc-snapper/app/build/intermediates/pre-dexed/debug/classes_deac96cbce9e8c6dfcff32a72ffc9cc4fd3d501c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/macbookpro/Documents/workspace/Upwork/NFC-Snapper/nfc-snapper/app/build/intermediates/pre-dexed/debug/support-annotations-25.4.0_85f4ef027d48d48af68e78d5cdb27a6820414d8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.6.15/648f465edd04514bdad4374c59e4e58aed93af67/aws-android-sdk-s3-2.6.15.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="648f465edd04514bdad4374c59e4e58aed93af67">
+        <dex dex="/Users/macbookpro/Documents/workspace/Upwork/NFC-Snapper/nfc-snapper/app/build/intermediates/pre-dexed/debug/aws-android-sdk-s3-2.6.15_f76335ee54fb48e38f7ca65643351e75c92b9bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/ae205e371e52dbc9c6acea0e60903779ff6a0ef3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/macbookpro/Documents/workspace/Upwork/NFC-Snapper/nfc-snapper/app/build/intermediates/pre-dexed/debug/classes_b72753955c234781a94f73455aa0d713df9082c5.jar" />
+    </item>
+
+</items>

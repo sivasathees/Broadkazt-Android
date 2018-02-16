@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="confirmButtonLayout">
+        <attr name="bgColor" format="color"/>
+        <attr name="buttonText" format="string"/>
+        <attr name="buttonTextColor" format="color"/>
+        <attr name="isArrowShowing" format="boolean"/>
+        <attr name="arrowImage" format="reference"/>
+        <attr name="textSize" format="float"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="headingLayout">
+        <attr name="headingbgColor" format="color"/>
+        <attr name="headingbuttonText" format="string"/>
+        <attr name="headingbuttonTextColor" format="color"/>
+        <attr name="isSwitchShowing" format="boolean"/>
+        <attr name="isRightArrowShowing" format="boolean"/>
+        <attr name="isLeftArrowShowing" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="backButtonBar">
+        <attr name="isBackArrowShowing" format="boolean"/>
+        <attr name="isLogoShowing" format="boolean"/>
+        <attr name="isPostLayoutShowing" format="boolean"/>
+        <attr name="hasBackground" format="boolean"/>
+    </declare-styleable>
+
+<attr name="cropImageStyle" format="reference" />
+
+    <declare-styleable name="CropImageView">
+        <attr name="highlightColor" format="reference|color" />
+        <attr name="showThirds" format="boolean" />
+        <attr name="showCircle" format="boolean" />
+        <attr name="showHandles">
+          <enum name="changing" value="0" />
+          <enum name="always" value="1" />
+          <enum name="never" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>

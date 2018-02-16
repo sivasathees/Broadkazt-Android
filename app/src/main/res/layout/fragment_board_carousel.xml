@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/bottomlayout"
+        android:layout_marginBottom="50dp">
+
+        <TextView
+            android:id="@+id/section_label"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Page One"
+            android:textSize="16sp"
+            android:visibility="invisible"/>
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:alpha="0.7"
+            android:gravity="center"
+            android:text="Add a long description here about your app's important feature."
+            android:textSize="18sp"
+            android:visibility="visible"
+            android:id="@+id/description"
+            android:textColor="#000000" />
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/section_img"
+        android:background="@drawable/rqicon_1"
+        android:scaleType="centerCrop"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+</RelativeLayout>
